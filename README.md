@@ -29,3 +29,5 @@ NETWORK. We recommend you open this as a normal user,
 as if hackers get access to the server, they can only
 do harmful stuff on THAT SPECIFIC SERVER, and not your
 whole computer and other devices.
+
+[https://madelinemiller.dev/blog/root-minecraft-server/]
