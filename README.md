@@ -31,3 +31,8 @@ do harmful stuff on THAT SPECIFIC SERVER, and not your
 whole computer and other devices.
 
 [https://madelinemiller.dev/blog/root-minecraft-server/]
+
+
+
+Minimum RAM for paper singleplayer server without plugins: 512MB
+Recommended RAM for paper singleplayer server without plugins: 2GB
