@@ -34,5 +34,4 @@ whole computer and other devices.
 
 
 
-Minimum RAM for paper singleplayer server without plugins: 512MB
-Recommended RAM for paper singleplayer server without plugins: 2GB
+If you want to use serverrun for other stuff/without changing the jar name to "paper.jar", I recommend you download the batch file variations of this script since you can edit the code.
